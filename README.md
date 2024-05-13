@@ -1,0 +1,2 @@
+# QueryBnB
+SQL practices
